@@ -5,7 +5,7 @@
 ## Used
 - Skills
 ```
-Quasar, Vue3, Composition API
+Quasar, Vue3, Composition API, SASS
 ```
 - DataBase
 ```
